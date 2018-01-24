@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;}
+
+
+.blockLine{
+     width: 1200px;
+     height: 500px;
+     position: relative;
+ }
+.tmp_del1{
+    width: 5400px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: none;
+}
+.tmp_del1 .swipper-slider{
+    width: 1200px;
+    float: left;
+}
+.tmp_del1 .swipper-slider>a{
+    display: block;
+    width: 280px;
+    height: 300px;
+    float: left;
+    margin-left: 20px;
+    background: #cc0;
+
+}
+
+.tmp_del2{
+    width: 5400px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: none;
+}
+.tmp_del2 .swipper-slider{
+    width: 1200px;
+    float: left;
+}
+.tmp_del2 .swipper-slider>a{
+    display: block;
+    width: 280px;
+    height: 300px;
+    float: left;
+    margin-left: 20px;
+    background: #cc0;
+
+}
+.game .active{
+    border-bottom: 10px solid orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
